@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# production
+dist/
+
+# environment
+.env
+.env.local
+
+# testing
+coverage/
+
+# bun
+bun.lockb
