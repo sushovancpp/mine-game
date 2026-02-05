@@ -1,4 +1,5 @@
-# Mines Game by CodeZenithAI
+
+
 
 A fun Minesweeper-style game built with React and Vite.
 
